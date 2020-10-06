@@ -4,6 +4,7 @@ This is a simple caesar cipher program that encrypts text based on a password gi
 
 Visualizer:
 
-T e s t i n g
+T e s t i n g 
+
 A B C A B C A
 
